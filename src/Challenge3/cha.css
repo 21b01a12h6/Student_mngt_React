@@ -1,0 +1,46 @@
+.nav{
+    background-color: rgb(15, 14, 14);
+    height: 50px;
+    margin-top: 15px;
+    
+}
+.home{
+    color: azure;
+    font-size: 20px;
+   margin-left: 150px;
+}
+.hom{
+    margin-top: 15px;
+}
+.stu{
+    margin-top: 15px;
+}
+.submit{
+    width: 90px;
+    height: 30px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.box{
+    border: 2px solid black;
+    width: 450px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.un{
+    margin-left: 70px;
+    margin-top: 40px;
+    padding: 8px;
+    width: 300px;
+    border-radius: 5px;
+}
+.pd{
+    margin-left: 70px;
+    margin-top: 30px;
+    padding: 8px;
+    width: 300px;
+    border-radius: 5px;
+}
